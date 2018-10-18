@@ -14,3 +14,9 @@ Requirements:
 Visual Studio
 Tensorflow == 1.3.0
 ```
+
+Reference
+```
+Water Wave Packet
+https://github.com/jeschke/water-wave-packets
+```
