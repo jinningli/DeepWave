@@ -13,7 +13,10 @@ Experiment results show that both of them `can effectively learn the motion of w
 ![](example.gif)
 
 ### See My Paper and PDF of Presentation for more details
-![](presentation.pdf)
+
+<a href="presentation.pdf">PDF of Presentation</a>
+
+<a href="Paper.pdf">Paper for this project</a>
 
 ### Requirements:
 ```
